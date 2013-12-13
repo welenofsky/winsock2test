@@ -12,6 +12,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\main.cpp" />
+    <ClCompile Include="connectionManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="connectionManager.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C91F1641-7EC4-48D3-B2E2-047B5D0D495C}</ProjectGuid>
